@@ -1,0 +1,121 @@
+<?xml version="1.0"?>
+<routes>
+    <route id="route1">
+        <name>Pittsburg/Bay Point - SFIA/Millbrae</name>
+        <number>1</number>
+        <color>GREEN</color>
+        <stations>
+            <station>PITT</station>
+                <station>NCON</station>
+                <station>CONC</station>
+                <station>PHIL</station>
+                <station>WCRK</station>
+                <station>LAFY</station>
+                <station>ORIN</station>
+                <station>ROCK</station>
+                <station>MCAR</station>
+                <station>19TH</station>
+                <station>12TH</station>
+                <station>WOAK</station>
+                <station>EMBR</station>
+                <station>MONT</station>
+                <station>POWL</station>
+                <station>CIVC</station>
+                <station>16TH</station>
+                <station>24TH</station>
+                <station>GLEN</station>
+                <station>BALB</station>
+                <station>DALY</station>
+                <station>COLM</station>
+                <station>SSAN</station>
+                <station>SBRN</station>
+                <station>SFIA</station>
+                <station>MLBR</station>
+        </stations>
+    </route>
+    <route id="route2">
+        <name>Millbrae/SFIA - Pittsburg/Bay Point</name>
+            <number>2</number>
+            <color>RED</color>
+            <stations>
+                    <station>MLBR</station>
+                    <station>SFIA</station>
+                    <station>SBRN</station>
+                    <station>SSAN</station>
+                    <station>COLM</station>
+                    <station>DALY</station>
+                    <station>BALB</station>
+                    <station>GLEN</station>
+                    <station>24TH</station>
+                    <station>16TH</station>
+                    <station>CIVC</station>
+                    <station>POWL</station>
+                    <station>MONT</station>
+                    <station>EMBR</station>
+                    <station>WOAK</station>
+                    <station>12TH</station>
+                    <station>19TH</station>
+                    <station>MCAR</station>
+                    <station>ROCK</station>
+                    <station>ORIN</station>
+                    <station>LAFY</station>
+                    <station>WCRK</station>
+                    <station>PHIL</station>
+                    <station>CONC</station>
+                    <station>NCON</station>
+                    <station>PITT</station>
+            </stations>
+        </route>
+    <route id="route3">
+        <name>Fremont - Richmond</name>
+            <number>3</number>
+            <color>#ffff33</color>
+            <stations>    
+                    <station>FRMT</station>
+                    <station>UCTY</station>
+                    <station>SHAY</station>
+                    <station>HAYW</station>
+                    <station>BAYF</station>
+                    <station>SANL</station>
+                    <station>COLS</station>
+                    <station>FTVL</station>
+                    <station>LAKE</station>
+                    <station>12TH</station>
+                    <station>19TH</station>
+                    <station>MCAR</station>
+                    <station>ASHB</station>
+                    <station>DBRK</station>
+                    <station>NBRK</station>
+                    <station>PLZA</station>
+                    <station>DELN</station>
+                    <station>RICH</station>
+            </stations>
+    </route>
+    
+    <route id="route6">
+        <name>Daly City - Fremont</name>
+            <number>6</number>
+            <color>#ffff33</color>
+            <stations>
+                    <station>DALY</station>
+                    <station>BALB</station>
+                    <station>GLEN</station>
+		    <station>24TH</station>
+		    <station>16TH</station>
+		    <station>CIVC</station>
+		    <station>POWL</station>
+		    <station>MONT</station>
+		    <station>EMBR</station>
+		    <station>WOAK</station>
+		    <station>LAKE</station>
+                    <station>FTVL</station>
+		    <station>COLS</station>
+                    <station>SANL</station>
+		    <station>BAYF</station>
+		    <station>HAYW</station>
+                    <station>SHAY</station>
+		    <station>UCTY</station>
+		    <station>FRMT</station>
+            </stations>
+        </route>
+</routes>

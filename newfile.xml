@@ -1,0 +1,261 @@
+<?xml version="1.0"?>
+<markers>
+  <station id="12TH">
+    <abrv>12TH</abrv>
+    <name>12th St. Oakland City Center</name>
+    <xcoord>37.8037</xcoord>
+    <ycoord>-122.272</ycoord>
+  </station>
+  <station id="16TH">
+    <abrv>16TH</abrv>
+    <name>16th St. Mission</name>
+    <xcoord>37.7651</xcoord>
+    <ycoord>-122.42</ycoord>
+  </station>
+  <station id="19TH">
+    <abrv>19TH</abrv>
+    <name>19th St. Oakland</name>
+    <xcoord>37.8079</xcoord>
+    <ycoord>-122.269</ycoord>
+  </station>
+  <station>
+    <abrv>24TH</abrv>
+    <name>24th St. Mission</name>
+    <xcoord>37.7523</xcoord>
+    <ycoord>-122.418</ycoord>
+  </station>
+  <station id="ASHB">
+    <abrv>ASHB</abrv>
+    <name>Ashby</name>
+    <xcoord>37.853</xcoord>
+    <ycoord>-122.27</ycoord>
+  </station>
+  <station id="BALB">
+    <abrv>BALB</abrv>
+    <name>Balboa Park</name>
+    <xcoord>37.722</xcoord>
+    <ycoord>-122.447</ycoord>
+  </station>
+  <station id="BAYF">
+    <abrv>BAYF</abrv>
+    <name>Bay Fair</name>
+    <xcoord>37.6972</xcoord>
+    <ycoord>-122.127</ycoord>
+  </station>
+  <station id="CAST">
+    <abrv>CAST</abrv>
+    <name>Castro Valley</name>
+    <xcoord>37.6908</xcoord>
+    <ycoord>-122.076</ycoord>
+  </station>
+  <station id="CIVC">
+    <abrv>CIVC</abrv>
+    <name>Civic Center/UN Plaza</name>
+    <xcoord>37.7795</xcoord>
+    <ycoord>-122.414</ycoord>
+  </station>
+  <station id="COLM">
+    <abrv>COLM</abrv>
+    <name>Colma</name>
+    <xcoord>37.6846</xcoord>
+    <ycoord>-122.466</ycoord>
+  </station>
+  <station id="COLS">
+    <abrv>COLS</abrv>
+    <name>Coliseum/Oakland Airport</name>
+    <xcoord>37.754</xcoord>
+    <ycoord>-122.197</ycoord>
+  </station>
+  <station id="CONC">
+    <abrv>CONC</abrv>
+    <name>Concord</name>
+    <xcoord>37.9737</xcoord>
+    <ycoord>-122.029</ycoord>
+  </station>
+  <station id="DALY">
+    <abrv>DALY</abrv>
+    <name>Daly City</name>
+    <xcoord>37.7061</xcoord>
+    <ycoord>-122.469</ycoord>
+  </station>
+  <station id="DBRK">
+    <abrv>DBRK</abrv>
+    <name>Downtown Berkeley</name>
+    <xcoord>37.8699</xcoord>
+    <ycoord>-122.268</ycoord>
+  </station>
+  <station id="DELN">
+    <abrv>DELN</abrv>
+    <name>El Cerrito del Norte</name>
+    <xcoord>37.9257</xcoord>
+    <ycoord>-122.317</ycoord>
+  </station>
+  <station id="DUBL">
+    <abrv>DUBL</abrv>
+    <name>Dublin/Pleasanton</name>
+    <xcoord>37.7017</xcoord>
+    <ycoord>-121.9</ycoord>
+  </station>
+  <station id="EMBR">
+    <abrv>EMBR</abrv>
+    <name>Embarcadero</name>
+    <xcoord>37.793</xcoord>
+    <ycoord>-122.397</ycoord>
+  </station>
+  <station id="FRMT">
+    <abrv>FRMT</abrv>
+    <name>Fremont</name>
+    <xcoord>37.5574</xcoord>
+    <ycoord>-121.976</ycoord>
+  </station>
+  <station id="FTVL">
+    <abrv>FTVL</abrv>
+    <name>Fruitvale</name>
+    <xcoord>37.775</xcoord>
+    <ycoord>-122.224</ycoord>
+  </station>
+  <station id="GLEN">
+    <abrv>GLEN</abrv>
+    <name>Glen Park</name>
+    <xcoord>37.7329</xcoord>
+    <ycoord>-122.434</ycoord>
+  </station>
+  <station id="HAYW">
+    <abrv>HAYW</abrv>
+    <name>Hayward</name>
+    <xcoord>37.6704</xcoord>
+    <ycoord>-122.088</ycoord>
+  </station>
+  <station id="LAFY">
+    <abrv>LAFY</abrv>
+    <name>Lafayette</name>
+    <xcoord>37.8934</xcoord>
+    <ycoord>-122.124</ycoord>
+  </station>
+  <station id="LAKE">
+    <abrv>LAKE</abrv>
+    <name>Lake Merritt</name>
+    <xcoord>37.7975</xcoord>
+    <ycoord>-122.266</ycoord>
+  </station>
+  <station id="MCAR">
+    <abrv>MCAR</abrv>
+    <name>MacArthur</name>
+    <xcoord>37.8284</xcoord>
+    <ycoord>-122.267</ycoord>
+  </station>
+  <station id="MLBR">
+    <abrv>MLBR</abrv>
+    <name>Millbrae</name>
+    <xcoord>37.5998</xcoord>
+    <ycoord>-122.387</ycoord>
+  </station>
+  <station id="MONT">
+    <abrv>MONT</abrv>
+    <name>Montgomery St.</name>
+    <xcoord>37.7893</xcoord>
+    <ycoord>-122.401</ycoord>
+  </station>
+  <station id="NBRK">
+    <abrv>NBRK</abrv>
+    <name>North Berkeley</name>
+    <xcoord>37.874</xcoord>
+    <ycoord>-122.283</ycoord>
+  </station>
+  <station id="NCON">
+    <abrv>NCON</abrv>
+    <name>North Concord/Martinez</name>
+    <xcoord>38.0033</xcoord>
+    <ycoord>-122.025</ycoord>
+  </station>
+  <station id="ORIN">
+    <abrv>ORIN</abrv>
+    <name>Orinda</name>
+    <xcoord>37.8784</xcoord>
+    <ycoord>-122.184</ycoord>
+  </station>
+  <station id="PHIL">
+    <abrv>PHIL</abrv>
+    <name>Pleasant Hill/Contra Costa Centre</name>
+    <xcoord>37.9284</xcoord>
+    <ycoord>-122.056</ycoord>
+  </station>
+  <station id="PITT">
+    <abrv>PITT</abrv>
+    <name>Pittsburg/Bay Point</name>
+    <xcoord>38.0189</xcoord>
+    <ycoord>-121.945</ycoord>
+  </station>
+  <station id="PLZA">
+    <abrv>PLZA</abrv>
+    <name>El Cerrito Plaza</name>
+    <xcoord>37.9031</xcoord>
+    <ycoord>-122.299</ycoord>
+  </station>
+  <station id="POWL">
+    <abrv>POWL</abrv>
+    <name>Powell St.</name>
+    <xcoord>37.785</xcoord>
+    <ycoord>-122.407</ycoord>
+  </station>
+  <station id="RICH">
+    <abrv>RICH</abrv>
+    <name>Richmond</name>
+    <xcoord>37.9369</xcoord>
+    <ycoord>-122.353</ycoord>
+  </station>
+  <station id="ROCK">
+    <abrv>ROCK</abrv>
+    <name>Rockridge</name>
+    <xcoord>37.8446</xcoord>
+    <ycoord>-122.252</ycoord>
+  </station>
+  <station id="SANL">
+    <abrv>SANL</abrv>
+    <name>San Leandro</name>
+    <xcoord>37.7226</xcoord>
+    <ycoord>-122.161</ycoord>
+  </station>
+  <station id="SBRN">
+    <abrv>SBRN</abrv>
+    <name>San Bruno</name>
+    <xcoord>37.6378</xcoord>
+    <ycoord>-122.416</ycoord>
+  </station>
+  <station id="SHAY">
+    <abrv>SHAY</abrv>
+    <name>South Hayward</name>
+    <xcoord>37.6348</xcoord>
+    <ycoord>-122.058</ycoord>
+  </station>
+  <station id="SSAN">
+    <abrv>SSAN</abrv>
+    <name>South San Francisco</name>
+    <xcoord>37.6642</xcoord>
+    <ycoord>-122.444</ycoord>
+  </station>
+  <station id="UCTY">
+    <abrv>UCTY</abrv>
+    <name>Union City</name>
+    <xcoord>37.5912</xcoord>
+    <ycoord>-122.018</ycoord>
+  </station>
+  <station id="WCRK">
+    <abrv>WCRK</abrv>
+    <name>Walnut Creek</name>
+    <xcoord>37.9056</xcoord>
+    <ycoord>-122.067</ycoord>
+  </station>
+  <station id="WDUB">
+    <abrv>WDUB</abrv>
+    <name>West Dublin/Pleasanton</name>
+    <xcoord>37.6998</xcoord>
+    <ycoord>-121.928</ycoord>
+  </station>
+  <station id="WOAK">
+    <abrv>WOAK</abrv>
+    <name>West Oakland</name>
+    <xcoord>37.8047</xcoord>
+    <ycoord>-122.295</ycoord>
+  </station>
+</markers>
